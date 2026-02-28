@@ -1,0 +1,25 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"ParticleSystem2",
+  "backdropHeight":30,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"",
+  "backdropWidth":30,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"Emitter","additiveBlend":false,"directionIncrease":0.0,"directionMax":120.0,"directionMin":60.0,"directionWiggle":0.0,"distribution":1,"editorColour":3103779276,"editorDrawShape":true,"emitCount":10,"emitDelayMax":1.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":0.0,"emitIntervalMin":0.0,"emitIntervalUnits":0,"enabled":true,"endColour":4294967295,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":80.0,"lifetimeMin":20.0,"linkedEmitter":null,"locked":false,"midColour":4294954682,"mode":1,"name":"Emitter","orientationIncrease":0.0,"orientationMax":0.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":2.0,"regionW":2.0,"regionX":0.0,"regionY":0.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":0.5,"scaleY":0.5,"shape":1,"sizeIncrease":0.0,"sizeMax":0.1,"sizeMin":0.01,"sizeWiggle":0.01,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.0,"speedMax":3.0,"speedMin":1.0,"speedWiggle":1.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":4294963160,"texture":6,},
+  ],
+  "name":"ParticleSystem2",
+  "parent":{
+    "name":"Blank Pixel Game",
+    "path":"Blank Pixel Game.yyp",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":false,
+  "xorigin":0,
+  "yorigin":0,
+}
